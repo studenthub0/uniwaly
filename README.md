@@ -29,13 +29,16 @@ Finding the right study material on the internet can be overwhelming, especially
 Here’s a preview of the website:
 
 ### Homepage:
-![UniWaly Homepage](https://uniwaly.com/screenshots/homepage.png)
+![UniWaly Homepage](https://github.com/studenthub0/uniwaly/blob/screenshot/screenshot/book.png)
 
 ### Discussion Forum:
-![Discussion Forum](https://example.com/screenshots/forum.png)
+![Discussion Forum](https://github.com/studenthub0/uniwaly/blob/screenshot/screenshot/disscussion.png)
 
-### Job Portal:
-![Job Portal](https://example.com/screenshots/job-portal.png)
+### Events:
+![Job Portal](https://github.com/studenthub0/uniwaly/blob/screenshot/screenshot/events.png)
+
+### Jobs Portal:
+![Job Portal](https://github.com/studenthub0/uniwaly/blob/screenshot/screenshot/jobs.png)
 
 ## How to Get Started
 
@@ -47,28 +50,19 @@ Here’s a preview of the website:
 
 ## Login & Signup Links
 
-- [Login to UniWaly.com](https://uniwaly.com/login)
-- [Sign Up for an Account](https://uniwaly.com/signup)
+- [Login to UniWaly.com](https://uniwaly.com/login.php)
+- [Sign Up for an Account](https://uniwaly.com/signup.php)
 
 ## Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript (React.js)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT-based secure login system
-- **Cloud Storage**: For storing user-uploaded materials and documents
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+--
 
 ## Contact
 
 For more information, inquiries, or to report an issue, please contact us:
 
-- **Email**: [contact@uniwaly.com](mailto:contact@uniwaly.com)
-- **Twitter**: [@UniWaly](https://twitter.com/UniWaly)
-- **Instagram**: [@UniWalyOfficial](https://instagram.com/UniWalyOfficial)
+- **Contact**: [Contact](https://www.uniwaly.com/report_forms/report.php?reporttype=feedback)
+
 
 ---
 
