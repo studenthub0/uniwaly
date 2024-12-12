@@ -61,7 +61,7 @@ Here’s a preview of the website:
 
 For more information, inquiries, or to report an issue, please contact us:
 
-- **Contact**: [contact@uniwaly.com](https://www.uniwaly.com/report_forms/report.php?reporttype=feedback)
+- **Contact**: [Contact](https://www.uniwaly.com/report_forms/report.php?reporttype=feedback)
 
 
 ---
